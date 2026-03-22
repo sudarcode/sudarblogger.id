@@ -51,20 +51,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
           class="hero-title mb-3 text-5xl leading-[1.1] font-bold tracking-tight sm:text-6xl lg:text-7xl"
         >
           {SITE.title}
-          <a
-            target="_blank"
-            href="/rss.xml"
-            class="ml-1 inline-block align-middle"
-            aria-label="rss feed"
-            title="RSS Feed"
-          >
-            <IconRss
-              width={22}
-              height={22}
-              class="stroke-accent stroke-3 opacity-40 transition-opacity duration-300 hover:opacity-100"
-            />
-            <span class="sr-only">RSS Feed</span>
-          </a>
+          
         </h1>
 
         {/* ── Audio de marca ── */}
