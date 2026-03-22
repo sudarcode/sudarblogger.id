@@ -37,20 +37,20 @@ const isActive = (path: string) => {
             <span>Blog</span>
           </a>
           <a
-            href="/tags"
+            href="/about"
             class:list={["mobile-nav-link", { active: isActive("/tags") }]}
             style="--i:1"
           >
             <span class="mobile-nav-indicator"></span>
-            <span>Pengalaman</span>
+            <span>About</span>
           </a>
           <a
-            href="/about"
+            href="/pengalaman"
             class:list={["mobile-nav-link", { active: isActive("/about") }]}
             style="--i:2"
           >
             <span class="mobile-nav-indicator"></span>
-            <span>About</span>
+            <span>Pengalaman</span>
           </a>
           
           {
@@ -64,7 +64,7 @@ const isActive = (path: string) => {
                 style="--i:4"
               >
                 <span class="mobile-nav-indicator" />
-                <span>Memories</span>
+                <span>Travelling</span>
               </a>
             )
           }
