@@ -32,14 +32,14 @@ Pada tahun 2026 ini akhir nya akun ini bisa kembali lagi dan belum upgrate fitur
 
 ## Cara Kembalikan Akun Instgram Yang Hilang
 Saya akan share tutorial kepada kalian bagaimana memulihkan akun instgram yang lupa password sesuai pengalaman pribadi saya, langsung aja berikut tutorial nya :
-  1. Buka di browser website instgram.com/hacked
-  2. Tulis Email, Nomor Telpon atau Username instahram
-  3. Jika sudah install Aplikasi instagram maka akan dialihkan ke dalam aplikasi tersebut untuk melanjutkan pemulihan akun
-  4. Isi nomor Whatsapp yang dulu pernah di daftar untuk kirim kode verifikasi
-  5. Selanjutnya akan di mintai email pemulihan yang mana untuk konfirmasi pemulihan akun
-  6. Setelah itu tunggu proses pemulihan akun hingga selesai
-  7. Selanjutnya akan di minta untuk mengganti Password terbaru kalin
-  8. Selesai akun kalian sudah kembali
+  - Buka di browser website instgram.com/hacked
+  - Tulis Email, Nomor Telpon atau Username instahram
+  - Jika sudah install Aplikasi instagram maka akan dialihkan ke dalam aplikasi tersebut untuk melanjutkan pemulihan akun
+  - Isi nomor Whatsapp yang dulu pernah di daftar untuk kirim kode verifikasi.
+  - Selanjutnya akan di mintai email pemulihan yang mana untuk konfirmasi pemulihan akun.
+  - Setelah itu tunggu proses pemulihan akun hingga selesai.
+  - Selanjutnya akan di minta untuk mengganti Password terbaru kalian.
+  - Selesai akun kalian sudah kembali
  
 ## Jangan Lupa Follow
 Buat kalian yang mungkin penasaran dengan akun instgram yang 6  tahun lalu mungkin bisa follow aja itu akun karena akun tersebut terbuka juga tidak di privasi. Kalau mau tanya - tanya pun bisa chat aja melalui instgram yang sekarang ini. 
