@@ -1,0 +1,44 @@
+---
+title: Pengalaman Buka Puasa di Masjid Namira Lamongan
+author: Sudarmanto
+pubDatetime: 2026-02-28T09:15:31Z
+slug: masjid-namira-lamongan
+featured: true
+draft: false
+tags:
+  - Lamongan
+  - Namira
+  - Travellir
+description:
+  Pengalaman buka puasa di masjid namira lamongan
+---
+
+Berangkat dari rumah sekitar pukul 15.00 WIB ke Masjid Namira Lamongan untuk menghadiri tausiah yang mana ingin kesana dari dulu dan baru ke terpenuhi di bulan puasa tahun ini.
+
+Seperti diketahuai kalau dimasjid Namira Lamongan ini setiap bulan puasa ada kegiatan seperti Tausiah, Buka Bersama dan Cek Kesahatan Gratis disana.
+![masjid namira](@/assets/images/namira1.jpg)
+
+Sebenarnya sudah dari 3 tahun yang lalu ingin kesana dan merasakan sholat di Masjid Namira Lamongan ini akan tetapi tidak ada teman nya oleh karena itu di tahan dulu keinginan tersebut. Masjid Namira Lamongan
+![masjid namira](@/assets/images/namira2.jpg)
+
+Kesana pun tidak sendirian tapi bersama teman saya, karena jarak Masjid Namira dari rumah pun sangatlah jauh sekitar 2 jam lah, seperti yang kalian tau rumah saya berada di perbatasan Lamongan - Jombang, jadi ibaratkan itu seperti ujungnya kabupaten lamongan.
+
+Masjid Namira Lamongan Karena jam keberangkatan mepet jadi agak ngebut, ditambah belum jalan nanti macet dikarenakan bebarengan sama orang yang mencari takjil, karena sebelum jam 17.00 WIB sudah harus sampai masjid namira ini. 
+
+Masjid Namira Lamongan Sesampai nya disana disempatin lah foto - foto buat kenangan, karena saya sendiri ini lama juga tidak pernah kesana, dulu pas waktu kerja ikut orang kedungpring selalu mampir kesana, jadi ini seperti nostalgia yang mana mengingatkan dulu sering mampir ke masjid namira ini ntah untuk singgah atau untuk ngadem saja.
+
+Masjid Namira Lamongan Mumpung di Masjid Namira ini sempatkan untuk sholat magrib plus buka puasa juga ditambah lagi sambil mendengarkan ceramah dari Pak Ustad tentu sangat menambah suasana ramadhan tahun ini.
+
+Masjid Namira Lamongan Masjid Namira ini selalu ramai setiap hari nya karena menjadi pesinggahan orang yang ingin mampir atau ingin sholat di tempat tersebut, jadi Masjid Namira ini tidak pernah sepi setiap hari nya bahkan malam pun tetap ramai masjid ini.
+![masjid namira](@/assets/images/namira3.jpg)
+
+Nah ini dia beberapa foto kegiatan yang ada di masjid namira lamongan selama bulan ramadan 2026 :
+
+![masjid namira](@/assets/images/namira4.jpg)
+![masjid namira](@/assets/images/namira5.jpg)
+![masjid namira](@/assets/images/namira6.jpg)
+![masjid namira](@/assets/images/namira7.jpg)
+![masjid namira](@/assets/images/namira8.jpg)
+![masjid namira](@/assets/images/namira9.jpg)
+![masjid namira](@/assets/images/namira10.jpg)
+![masjid namira](@/assets/images/namira11.jpg)
