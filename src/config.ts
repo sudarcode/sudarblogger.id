@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://devosfera.vercel.app/",
+  website: "https://cakdar.pages.dev/",
   author: "Sudar Blogger",
   profile: "https://github.com/0xdres",
   desc: "Blog Kang Sudar adalah blog untuk share pengalaman, tutorial, review dan share tempat travelling menarik di indonesia",
