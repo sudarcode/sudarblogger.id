@@ -98,7 +98,23 @@ const isActive = (path: string) => {
                 class:list={["nav-link", { "nav-active": isActive("/search") }]}
                 title="Ir a búsqueda">Search</a
               >
-            
+            </li>
+            {
+              SITE.showArchives && (
+                <li>
+                  <LinkButton
+                    href="/archives"
+                    class:list={[
+                      "nav-link",
+                      { "nav-active": isActive("/archives") },
+                    ]}
+                    title="Archives"
+                    aria-label="archives"
+                  >
+                    <IconArchive class="hidden sm:inline-block" />
+                    <span class="sm:sr-only">Arsip</span>
+                  </LinkButton>
+                </li>
               )
             }
             {
