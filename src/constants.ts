@@ -19,25 +19,20 @@ interface Social {
 export const SOCIALS: Social[] = [
   {
     name: "GitHub",
-    href: "https://github.com/0xdres/",
+    href: "https://github.com/sudarcode/",
     linkTitle: `${SITE.title} en GitHub`,
     icon: IconGitHub,
   },
+
   {
-    name: "X",
-    href: "https://x.com/avdyen",
-    linkTitle: `${SITE.title} en X`,
-    icon: IconBrandX,
-  },
-  {
-    name: "LinkedIn",
-    href: "https://www.linkedin.com/in/avdyan/",
+    name: "Facebook",
+    href: "https://www.facebook.com/Nauval.sudarmanto/",
     linkTitle: `${SITE.title} en LinkedIn`,
-    icon: IconLinkedin,
+    icon: IconFacebook,
   },
   {
     name: "Mail",
-    href: "mailto:andres04u@gmail.com",
+    href: "mailto:mail@sudarblogger.web.id",
     linkTitle: `Envia un correo a ${SITE.title}`,
     icon: IconMail,
   },
@@ -47,37 +42,37 @@ export const SHARE_LINKS: Social[] = [
   {
     name: "WhatsApp",
     href: "https://wa.me/?text=",
-    linkTitle: `Envia este post por WhatsApp`,
+    linkTitle: `Share to link WhatsApp`,
     icon: IconWhatsapp,
   },
   {
     name: "Facebook",
     href: "https://www.facebook.com/sharer.php?u=",
-    linkTitle: `Comparte este post en Facebook`,
+    linkTitle: `Share to link Facebook`,
     icon: IconFacebook,
   },
   {
     name: "X",
     href: "https://x.com/intent/post?url=",
-    linkTitle: `Comparte este post en X`,
+    linkTitle: `Share to link X`,
     icon: IconBrandX,
   },
   {
     name: "Telegram",
     href: "https://t.me/share/url?url=",
-    linkTitle: `Comparte este post por Telegram`,
+    linkTitle: `Share to linkTelegram`,
     icon: IconTelegram,
   },
   {
     name: "Pinterest",
     href: "https://pinterest.com/pin/create/button/?url=",
-    linkTitle: `Comparte este post en Pinterest`,
+    linkTitle: `Share to link Pinterest`,
     icon: IconPinterest,
   },
   {
     name: "Mail",
     href: "mailto:?subject=See%20this%20post&body=",
-    linkTitle: `Envia este post por correo`,
+    linkTitle: `Share post to mail`,
     icon: IconMail,
   },
 ] as const;
