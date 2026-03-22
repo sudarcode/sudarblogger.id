@@ -1,5 +1,5 @@
 ---
-title: Keindahan Air Terjun Putri Ngelirip Tuban
+title: Keindahan Jalur Pendakian Wisata Bromo via Probolinggo
 author: Sudarmanto
 pubDatetime: 2025-11-27T10:00:00Z
 slug: wisata-bromo
