@@ -1,9 +1,9 @@
 export const SITE = {
   website: "https://devosfera.vercel.app/",
-  author: "Andrés Ujpán",
+  author: "Sudar Blogger",
   profile: "https://github.com/0xdres",
-  desc: "Un blog para compartir mis pensamientos y proyectos mientras aprendo cosas nuevas.",
-  title: "Devosfera",
+  desc: "Blog Kang Sudar adalah blog untuk share pengalaman, tutorial, review dan share tempat travelling menarik di indonesia",
+  title: "Sudar Blogger",
   ogImage: "devosfera-og.webp", // ubicado en la carpeta public
   lightAndDarkMode: true,
   postPerIndex: 6,
