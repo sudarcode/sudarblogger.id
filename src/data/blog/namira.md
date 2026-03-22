@@ -1,8 +1,8 @@
 ---
 title: Pengalaman Buka Puasa di Masjid Namira Lamongan
-author: Sudarmanto
+author: Sudar Blogger
 pubDatetime: 2026-02-28T09:15:31Z
-slug: masjid-namira-lamongan
+slug: masjid-namira
 featured: true
 draft: false
 tags:
