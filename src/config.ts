@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://cakdar.pages.dev/",
+  website: "https://www.sudarblogger.web.id/",
   author: "Sudar Blogger",
-  profile: "https://github.com/0xdres",
+  profile: "https://github.com/sudarcode",
   desc: "Blog Kang Sudar adalah blog untuk share pengalaman, tutorial, review dan share tempat travelling menarik di indonesia",
   title: "Sudar Blogger",
   ogImage: "devosfera-og.webp", // ubicado en la carpeta public
@@ -9,7 +9,7 @@ export const SITE = {
   postPerIndex: 6,
   postPerPage: 8,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
-  showArchives: false,
+  showArchives: true,
   showGalleries: true,
   showBackButton: true, // show back button in post detail
   editPost: {
