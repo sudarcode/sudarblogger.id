@@ -92,13 +92,13 @@ const isActive = (path: string) => {
                 >About</a
               >
             </li>
-            <li class="flex items-center">
-              <a
-                href="/search"
-                class:list={["nav-link", { "nav-active": isActive("/search") }]}
-                title="Ir a búsqueda">Search</a
+<a
+                href="/pengalaman"
+                class:list={["nav-link", { "nav-active": isActive("/pengalaman") }]}
+                >Pengalaman</a
               >
             </li>
+            
             {
               SITE.showArchives && (
                 <li>
@@ -150,7 +150,7 @@ const isActive = (path: string) => {
                 aria-keyshortcuts="Meta+K"
               >
                 <IconSearch class="size-4.5" />
-                <kbd class="nav-kbd">⌘K</kbd>
+                <kbd class="nav-kbd"></kbd>
               </button>
             </li>
             {
