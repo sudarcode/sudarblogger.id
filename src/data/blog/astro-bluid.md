@@ -1,5 +1,5 @@
 ---
-title: Coba Belajar Astro Bluid Untuk Ngeblog
+title: Coba Belajar Astro Bluid Untuk Platfrom Ngeblog Selanjutnya
 author: Sudarmanto
 pubDatetime: 2026-03-13T09:15:31Z
 slug: astro-bluid
@@ -8,6 +8,8 @@ draft: false
 tags:
   - TypeScript
   - Astro
+  - Cloudflare
+  - Node.js
 description:
   Bingung menggunakan Astro Bluid daripada menggunakan Hugo saat memosting artikel di blog
 ---
@@ -20,7 +22,21 @@ Sebelum nya saya menggunakan Hugo akan tatapi kali ini mencoba yang beda lagi ya
 
 Sedangkan untuk hosting saya gunakan Cloudflare Page yang mana speed loadingnya sangatlah cepat ditambah lagi tanpa ada batasan Badwith jadi walaupun free tetap unlimited. 
 
-Beda kalau menggunakan hosting harus bayar bulanan dan ditambah lagi harus terus stand bye karena sewaktu di masuki hacker yang promosikan akun judol. 
+Beda kalau menggunakan hosting harus bayar bulanan dan ditambah lagi harus terus stand bye karena sewaktu di masuki hacker yang promosikan akun judol.
+
+## Apa itu Astro? 
+Astro adalah Sebuah Framwork yang dirancang untuk membuat website dengan cepat, dengan konsep islands architecture. Dengan arsitektur ini, Astro cuma nge-load JavaScript kalau memang dibutuhkan. Jadi, halaman website kamu tetap ringan dan nggak bikin lemot.
+
+Astro mengutamakan static site generation (SSG), tapi tetap bisa interaktif dengan integrasi framework seperti React, Vue, Svelte, hingga Solid.js. Fleksibel banget!
+
+## Kenapa Saya Memilih Astro? 
+Pada waktu lalu saya menggunakan Hugo sekarang saya memilih pindah ke Astro.js ini tentu ada beberapa keunggulan Astro ini :
+
+1. Perfoma Super Cepat : Karena Astro ini hanya mengirim HTML dan CSS tanpa ada nya Javascript jadi membuat loading website anda akan lebih cepat
+2. SEO Frendly : Astro sudah bisa terintegrasi oleh SSG jadi blog atau website akan lebih cepat terindex oleh Google.
+3. Bisa Pakai Banyak Framwork : Mau pakai React buat satu komponen, Vue buat yang lain, dan Svelte buat bagian lain? Bisa! Astro mendukung multiple framework dalam satu proyek.
+4. Tanpa Javascript Berlebihan : Astro secara default nggak nge-load JavaScript di client kecuali yang benar-benar dibutuhkan. Hemat resource dan bikin website lebih ringan.
+5. Mudah di Pakai : Meski menggunakan handphone untuk ngeblog tapi ternyata mudah digunakan dan bisa dikelola dimanapun itu tempat nya. 
 
 ## Rencena Blog ini
 Blog ini akan dibuat untuk membahas mengenai artikel devoloper dan tutorial media sosial yang mana sesuai pengalaman saya juga. 
