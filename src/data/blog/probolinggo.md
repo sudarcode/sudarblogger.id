@@ -13,20 +13,20 @@ description:
   Mencoba pengalaman privat jeep ke bromo melalui jalur probolinggo yang mana jalur yang sangat indah untuk wisatawan
 ---
 Bromo memang tempat yang indah untuk dikunjungi mulai dari wisatawan lokal hingga wisatawan mancanegara banyak sekali datang ke bromo, menjelang akhir tahun 2025 yang kedua kali nya berkunjung ke bromo. 
-
+![Gunung Bromo](@/assets/images/probolinggo/IMG-20251124-WA0016.jpg)
 Namun yang sekarang sangatlah karena berkunjung kebromo melalui jalur probolinggo, sedangkan yang dulu melalui malang, sekarang menggunakkan privat jeep atau menyewa jasa traveller bromo sedangkan yang dulu menggunakan sepeda motor. 
-
+![Gunung Bromo](@/assets/images/probolinggo/IMG-20251124-WA0014.jpg)
 Berangkat dari subaya menuju probolinggo dimana melalui tol memakan waktu dua jam lebih untuk sampai di probolinggo, di dalam perjalalan masih ada waktu untuk mencari jasa traveller yang mana untuk mengantar menikmati keindahan bromo. 
-
+![Gunung Bromo](@/assets/images/probolinggo/IMG-20251124-WA0020.jpg)
 Setelah skrol tiktok akhirnya menemukan jasa privat jeep di bromo dengan harga yang murah, nama nya adalah Sewa Jeep Bromo Probolinggo dimana harga paketnya pun sangatlah murah. 
-
+![Gunung Bromo](@/assets/images/probolinggo/IMG-20251124-WA0028.jpg)
 Dengan membayar 650.000 saja kalian sudah diajak keliling ke bromo sampai puas, mulai dari penanjakan untuk melihat Sunrise, lebah bromo, kawah bromo, padang savana, bukit teletubis dan masih banyak lagi. 
 
 Jika penasaran langsung cek aja harga paketnya dibawah ini lah pakoknya murah lah. 
 
 Namun harga segitu belum termasuk tiket jadi harga tiket nya terpisah, karena berangkat hari senin jadi harga tiket nya 54 ribu ditambah bayar pemda nya 25 ribu, karena kami berempat jadi tinggal kali berapa totalnya. Belum ditambah 650 ribu tadi dan
 Belum ditambah homestay nya semua totalnya untuk privat jeep ini sekitar 1.5 juta untuk 1 malam 2 hari karena penginapan nya memilih untuk dua kamar dengan harga perkamar 250 ribu. 
-
+![Gunung Bromo](@/assets/images/probolinggo/IMG-20251124-WA0029.jpg)
 Jadi total kamarnya sekitar 500 ribu yang mana akan medapatkan fasilitas seperti wifi, kamar mandi, dapur, bagasi mobil, dan banyak lagi, ibarat satu rumah dipakai untuk sendiri. 
 
 ## Privat Jeep Bromo Jalur Probolinggo
