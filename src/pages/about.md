@@ -1,30 +1,36 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "Mengenal Nauval Sudarmanto"
 ---
 
-Bienvenido a mi rincón digital. Soy un **desarrollador** y **estudiante** apasionado por la tecnología, los videojuegos y construir cosas que vivan en internet.
+Selamat datang di blog sederhana saya, disinilah tempat saya cerita dan berbagi pengalaman tentang travelling, ngeblog dan games
 
-## ¿Quién soy?
+## Kenalan Dengan Saya? 
 
-Me llamo Andrés, y desde que recuerdo siempre tuve curiosidad por entender cómo funcionan las cosas — desde desarmar juguetes de niño hasta desarmar código ajeno a las 2 AM. Actualmente estudio ingeniería mientras desarrollo proyectos que me retan a aprender algo nuevo cada día.
+Perkenalkan Nama saya sudarmanto, atau orang memanggil saya sudar saya tinggal di pelosok desa di daerah lamongan yaitu Desa Kedungmentawar Kecamatan Ngimbang, Kabupaten Lamongan. Desa saya ini terletak di perbatasan Lamongan Jombang jadi kalau mau ke mana - mana atau mau beli apa lebih cepat ke jombang daripada lamongan kota.
 
-Cuando no estoy programando, probablemente estoy en algún mundo virtual explorando mapas, completando misiones o compitiendo online. Los videojuegos no solo son mi hobby, también me enseñaron a resolver problemas, trabajar en equipo y, sobre todo, a no rendirme después del intento #847.
+## Menjadi Blogger Adalah Jalan Ninjaku
 
-## Lo que hago
+Tentu bagi kalian blogger itu apa, gunanya buat apa dan bisa mendapatkan uang dari blogger, bagi orang awam mungkin platfrom blogger ini tidak lah berguna amat di kalian, beda kalau kalian sudah terjun di dunia blogger ini tentu blogger adalah sebuah platfrom ngeblog yang di sediakan oleh google bagi blog pemula.
 
-- **Desarrollo web** — Me encanta construir experiencias web modernas con tecnologías como Astro, React, TypeScript y todo lo que el ecosistema JavaScript tiene para ofrecer.
-- **Open Source** — Creo en el poder del código abierto. Puedes encontrar mis proyectos en [GitHub](https://github.com/0xdres/).
-- **Aprendizaje continuo** — Siempre estoy explorando nuevas herramientas, frameworks y conceptos. La tecnología evoluciona rápido y me gusta ir al ritmo.
+awal saya mengenal blogger pada tahun 2013 yang mana itu ada tugas sekolah yang harus membuat blog pribadi, dari situ saya mulai belajar mengenai dunia perbloggingan.
+
+tidak hanya belajar menulis akan tetapi kalian harus belajar mengenai HTML, CSS dan Javascript supaya blog kalian bisa dioprek menjadi lebih indah lagi tampilan blog nya.
+
+dengan blog yang indah tentu akan membuat para pengunjung yang datang akan semakin betah dan penasaran, akan tetapi konten lah nomor satu nya.
+
+apabila kalian ingin menghubungi saya bisa melalui kontak di blog saya ini misal nya mau ajak ngopi, atau berbicara tentang dunia blogger dan menulis siap di celling.
+
+selain menulis di blog saya juga aktif di editing video, dan youtube pada bulan kemaren alhamdulillah bisa menjadi bagian dari Creator Capcut dimana kalian bisa membuat template dan mendapatkan penghasilan dari sana.
 
 ## Gaming
+Selain Ngeblog saya juga suka bermain game yaitu Game Mobile Lagends yang mana itu dulu merupakan games yang kubenci tapi sekarang malah ketagihan dengan blog ini. 
 
-Los videojuegos son parte de mi ADN. Desde RPGs épicos hasta shooters competitivos, disfruto prácticamente cualquier género. Es ese espacio donde la creatividad se encuentra con la estrategia y la diversión pura.
 
-## Este blog
+## Blog ini Kedepan
 
-**Devosfera** nació como un espacio para documentar mi viaje como desarrollador, compartir lo que aprendo y conectar con personas que comparten las mismas pasiones. Aquí encontrarás posts sobre desarrollo, tecnología, y alguna que otra reflexión random de madrugada.
+Karena banyak yang belum menggunakan Hugo ini jadi kemungkinan tutorial selama belajar Hugo ini akan di share di blog ini, jadi apabila menemukan tutorila terbaru langsung akan saya share di blog ini. 
 
-Si quieres conectar, no dudes en encontrarme en [GitHub](https://github.com/0xdres/), [X](https://x.com/avdyen) o [LinkedIn](https://www.linkedin.com/in/avdyan/). Siempre es bueno conocer gente cool de la comunidad.
+Semoga betah di blog ini
 
-> _"El código es poesía, pero con más puntos y comas."_ — Yo, probablemente
+> _"Menjadi Blogger adalah Jalan Ninjaku."_ — Nauval Sudar Manto
