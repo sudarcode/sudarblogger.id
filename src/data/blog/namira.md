@@ -14,7 +14,7 @@ description:
 ---
 
 Berangkat dari rumah sekitar pukul 15.00 WIB ke Masjid Namira Lamongan untuk menghadiri tausiah yang mana ingin kesana dari dulu dan baru ke terpenuhi di bulan puasa tahun ini.
-
+![masjid namira](@/assets/images/namira/namira1.jpg)
 Seperti diketahuai kalau dimasjid Namira Lamongan ini setiap bulan puasa ada kegiatan seperti Tausiah, Buka Bersama dan Cek Kesahatan Gratis disana.
 
 
